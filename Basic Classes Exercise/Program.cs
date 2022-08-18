@@ -16,7 +16,7 @@
                 Year = 2020,
             };
 
-            Car myCar3 = new Car() {Make= "Audi", Model= "R8", Year= 2022 };
+            Car myCar3 = new Car("Audi", "R8", 2022);
 
             var carList = new List<Car>() { myCar, myCar2, myCar3 };
 

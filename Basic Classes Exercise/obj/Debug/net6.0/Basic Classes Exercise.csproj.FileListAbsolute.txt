@@ -1,0 +1,15 @@
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\bin\Debug\net6.0\Basic Classes Exercise.exe
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\bin\Debug\net6.0\Basic Classes Exercise.deps.json
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\bin\Debug\net6.0\Basic Classes Exercise.runtimeconfig.json
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\bin\Debug\net6.0\Basic Classes Exercise.dll
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\bin\Debug\net6.0\Basic Classes Exercise.pdb
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.csproj.AssemblyReference.cache
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.AssemblyInfoInputs.cache
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.AssemblyInfo.cs
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.csproj.CoreCompileInputs.cache
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.dll
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\refint\Basic Classes Exercise.dll
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.pdb
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\Basic Classes Exercise.genruntimeconfig.cache
+C:\Users\bloov\Desktop\repos\Basic Classes Exercise\Basic Classes Exercise\obj\Debug\net6.0\ref\Basic Classes Exercise.dll
